@@ -1,8 +1,8 @@
 #language: pt
 
-# Automação QA Challenge
+# Automação QA Challenge - AutomationPractice
 # Autor: Edgar Moreira da Silva
-# 20180725
+# 26/07/2018
 
 Funcionalidade: Login
     Para que eu possa acessar minha conta
@@ -10,7 +10,7 @@ Funcionalidade: Login
     Posso logar no sistema
 
 
-Contexto: Formulário
+Contexto: Página Inicial
         Dado que eu acessei a página inicial
 
     @login @Logout
