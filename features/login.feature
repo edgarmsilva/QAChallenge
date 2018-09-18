@@ -3,13 +3,12 @@
 # Automação QA Challenge - AutomationPractice
 # Autor: Edgar Moreira da Silva
 # 26/07/2018
-# Revisão 17/09
+
 
 Funcionalidade: Login
     Para que eu possa acessar minha conta
     Sendo um usuário cadastrado
     Posso logar no sistema
-    testeed
 
 
 Contexto: Página Inicial
